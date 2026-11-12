@@ -1,0 +1,6 @@
+{
+  "name": "Bible True or False",
+  "description": "An interactive, mobile-first Bible True or False quiz with elegant cards, smooth swipe gestures, Scripture explanations, and segmented progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
